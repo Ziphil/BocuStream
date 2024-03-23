@@ -7,7 +7,7 @@
 [BOCU-1 形式](https://www.unicode.org/notes/tn6/)でエンコードされたデータをデコードするためのユーティリティ群です。
 
 ## インストール
-[npm](https://www.npmjs.com/package/soxsot) 経由でインストールできます。
+[npm](https://www.npmjs.com/package/bocu-stream) 経由でインストールできます。
 ```
 npm i bocu-stream
 ```
