@@ -2,7 +2,7 @@
   "name": "bocu-stream",
   "version": "1.0.0",
   "author": "Ziphil",
-  "description": "",
+  "description": "BOCU-1 decoder",
   "homepage": "https://github.com/Ziphil/BocuStream",
   "license": "MIT",
   "main": "dist/index.js",

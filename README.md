@@ -1,5 +1,5 @@
 <div align="center">
-<h1>BOCU-1 デコーダ </h1>
+<h1>BOCU-1 Decoder </h1>
 </div>
 
 
